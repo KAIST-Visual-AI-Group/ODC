@@ -5,7 +5,7 @@
 
 Jisung Hwang and [Minhyuk Sung](https://mhsung.github.io/) <br>
 
-This repository contains the official implementation of [**Occupancy-Based Dual Contouring**](https://arxiv.org/abs/2409.13418). [[**Project Page**](https://occupancybased-dual-contouring.github.io/)] <br>
+This repository contains the official implementation of [**Occupancy-Based Dual Contouring**](https://arxiv.org/abs/2409.13418). [[**Project Page**](https://occupancy-based-dual-contouring.github.io/)] <br>
 **Occupancy-Based Dual Contouring** is a dual contouring method that is designed for _neural implicit functions_ defined in _continuous 3D space_ such as [IM-NET](https://github.com/czq142857/IM-NET), [Occupancy Networks](https://github.com/autonomousvision/occupancy_networks), or [DeepSDF](https://github.com/facebookresearch/DeepSDF).
 
 ### Abstract
